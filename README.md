@@ -1,5 +1,5 @@
 ## 👋 Who am I?
-Hello! I am **Tew Gun Rui** and I am currently studying at [NUS High](https://www.nushigh.edu.sg/). My interests (apart from CS) include chemistry, engineering and aviation. 
+Hello! I am **Tew Gun Rui** and I am currently studying at [NUS High School of Math and Science](https://www.nushigh.edu.sg/). My interests (apart from CS) include chemistry, engineering and aviation. 
 
 ## 🤖 My **CS** interests
   - **Cybersecurity**
