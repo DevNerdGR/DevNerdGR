@@ -12,11 +12,13 @@ Hello! I am **Tew Gun Rui** and I am currently studying at [NUS High School of M
   - **Languages**
     - Python
     - Java
+    - Kotlin
     - GDscript
     - C
   - **Frameworks and libraries**
     - Godot Game Engine
     - JavaFX
+    - Jetpack Compose
   - **Other tech**
     - Rapsberry Pi Pico microcontroller
     - Linux
