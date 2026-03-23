@@ -1,4 +1,4 @@
-> *Nullius in verba* — take no one's word for it.
+> # *Nullius in verba* — take no one's word for it.
 
 ## `$ whoami`
 Hi, I'm **Tew Gun Rui**! I'm currently studying at [NUS High School of Math and Science](https://www.nushigh.edu.sg/). I enjoy getting my hands dirty instead of just reading about stuff (and hence my personal motto of *nullius in verba*). My interests (apart from CS) include chemistry, aviation and FPV drone racing. 
