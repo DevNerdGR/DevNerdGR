@@ -12,7 +12,7 @@ What I'm exploring right now:
 ## `$ ls ~/cool-projects`
 | Project | What it's about |
 |---------|---------|
-| [SEmuRAI Framework](https://github.com/DevNerdGR/SEmuRAI-Release) | A dynamic binary analysis toolkit for use by software reverse engineering agents. <br>I will be showcasing this during [Arsenal at Black Hat USA 2026](https://blackhat.com/us-26/arsenal/schedule/index.html#semurai-software-emulation-and-reversing-ai-agent-53036) |
+| [SEmuRAI Framework](https://github.com/DevNerdGR/SEmuRAI-Release) | A dynamic binary analysis toolkit for use by software reverse engineering agents. <br>I will be showcasing this at [Arsenal during Black Hat USA 2026](https://blackhat.com/us-26/arsenal/schedule/index.html#semurai-software-emulation-and-reversing-ai-agent-53036) |
 | [Pioneer Flight Controller](https://github.com/DevNerdGR/Pioneer-Flight-Controller) | Experimental flight controller for the RP2040 chip
 | [RapidFireeeeeeee](https://github.com/DevNerdGR/RapidFireeeeeeee) | An LLM-powered STEM trivia Discord bot |
 | [ml-notebooks](https://github.com/DevNerdGR/ml-notebooks) | A collection of my personal notebooks exploring neural networks and deep learning architectures |
@@ -23,4 +23,4 @@ What I'm exploring right now:
 ## `$ nc me`
 Feel free to connect with me! Always open to collabs and discussions :)
   - My [LinkedIn](https://www.linkedin.com/in/tew-gunrui/) page
-  - Email: h2210147@nushigh.edu.sg
+  - Email: gunrui@devnerdgr.com
