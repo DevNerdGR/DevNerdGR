@@ -4,7 +4,7 @@
 Hi, I'm **Tew Gun Rui**! I'm currently studying at [NUS High School of Math and Science](https://www.nushigh.edu.sg/). I enjoy getting my hands dirty instead of just reading about stuff (and hence my personal motto of *nullius in verba*). My interests (apart from CS) include chemistry, aviation and FPV drone racing. 
 
 ## `$ ps -u me`
-What I'm exploring right now:
+What I'm exploring:
   - **Cybersecurity** — active in CTFs
   - **Machine learning** — building neural networks for fun
   - **Any cool stuff I come across!** — for example [quantum key distribution algorithms](https://github.com/DevNerdGR/bb84_sim) or [interpreters](https://github.com/DevNerdGR/arithmos)
@@ -12,12 +12,12 @@ What I'm exploring right now:
 ## `$ ls ~/cool-projects`
 | Project | What it's about |
 |---------|---------|
-| [SEmuRAI Framework](https://github.com/DevNerdGR/SEmuRAI-mcp) | A dynamic binary analysis toolkit for use by software reverse engineering agents. <br>I will be showcasing this at [Arsenal during Black Hat USA 2026](https://blackhat.com/us-26/arsenal/schedule/index.html#semurai-software-emulation-and-reversing-ai-agent-53036) |
+| [SEmuRAI Framework](https://github.com/DevNerdGR/SEmuRAI-mcp) | A dynamic binary analysis toolkit for use by reverse engineering AI agents. <br>I showcased this at [Arsenal during Black Hat USA 2026](https://blackhat.com/us-26/arsenal/schedule/index.html#semurai-software-emulation-and-reversing-ai-agent-53036) |
 | [Pioneer Flight Controller](https://github.com/DevNerdGR/Pioneer-Flight-Controller) | Experimental flight controller for the RP2040 chip
 | [RapidFireeeeeeee](https://github.com/DevNerdGR/RapidFireeeeeeee) | An LLM-powered STEM trivia Discord bot |
 | [ml-notebooks](https://github.com/DevNerdGR/ml-notebooks) | A collection of my personal notebooks exploring neural networks and deep learning architectures |
 
-*More projects to come!!!*
+*More projects to come!*
 
 
 ## `$ nc me`
